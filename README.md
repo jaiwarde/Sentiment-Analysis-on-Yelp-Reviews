@@ -1,2 +1,2 @@
-# Data-Mining-CA683-Final-Project
+# Data-Mining-Final-Project
 Sentiment Analysis on Yelp Reviews
